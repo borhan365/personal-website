@@ -1,0 +1,93 @@
+
+body{
+    font-family: 'Concert One', ;
+    margin: 0px;
+}
+/* Section background image
+============================== */
+.bg_img{
+    background-image: url("img/header-bg.png");
+    background-repeat: no-repeat;
+}
+
+.left_side_hero{
+    padding: 200px;
+}
+.left_side_hero h1{
+    color: orange;
+}
+.right_side_hero{
+
+}
+.right_side_hero img{
+    width: 100%;
+
+}
+.btn-success{
+    background: orange !important;
+    border: orange !important;
+}
+/* Secend Section
+=================== */
+.secend_section_bg{
+    margin: 20px 20px;
+    background-image: url("img/biography-bg.png");
+    background-repeat: no-repeat;
+}
+.secend_left_col{
+    
+}
+.secend_left_col img{
+    
+}
+.secend_right_col{
+    padding: 203px 43px;
+}
+/* Our Latest Work section
+============================= */
+.work_section_title h2{
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 40px;
+    color: orange;
+    text-align: center;
+    margin: 64px 20px;
+}
+.latest_work{
+    margin-bottom: 80px;
+    background-image: url("img/latest-work-bg.png");
+    background-repeat: no-repeat;
+}
+/* Our Client 
+================== */
+.client_bg{
+    background-image: url("img/footer-bg.png");
+    background-repeat: no-repeat;
+}
+.main_client_section{
+    text-align: center;
+}
+.main_client_section h1{
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 40px;
+    color: orange;
+    text-align: center;
+    margin: 64px 20px;
+}
+.mail_section{
+    background: palevioletred;
+    padding: 30px;
+    border-radius: 7px;
+    box-shadow: 1px 1px 8px 0px #adb5bd;
+}
+.mail_section h4{
+    color: white;
+    font-size: 40px;
+}
+.mail_section p{
+    color: white;
+}
+.footer{
+    margin-top: 100px;
+}
